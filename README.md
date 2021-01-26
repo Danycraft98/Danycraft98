@@ -3,7 +3,7 @@
 
 Math and Computer Science Student at <a href="https://www.utoronto.ca/">University of Toronto</a>
 <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>
-Juniour Developer as Intern at <a href="https://www.mayahtt.com/">Maya HTT</a><img src="https://github.com/Danycraft98/Danycraft98/blob/main/bongo-cat.gif" width="30"></br>
+Juniour Developer at <a href="https://www.mayahtt.com/">Maya HTT</a><img src="https://github.com/Danycraft98/Danycraft98/blob/main/bongo-cat.gif" width="30"></br>
 Juniour Developer at <a href="https://www.ecplaza.net/">ECPlaza</a><img src="https://github.com/Danycraft98/Danycraft98/blob/main/bongo-cat.gif" width="30">
 </em></p>
 
