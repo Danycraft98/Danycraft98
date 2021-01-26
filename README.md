@@ -19,7 +19,4 @@ Juniour Developer at <a href="https://www.ecplaza.net/">ECPlaza</a><img src="htt
 [![GitHub Danycraft98](https://img.shields.io/github/followers/Danycraft98?label=follow&style=social)](https://github.com/Danycraft98)
 
 <img src="https://github.com/Danycraft98/Danycraft98/blob/main/profile.png" width="1000">
-```
-
-
-PyGame
+``` ```
