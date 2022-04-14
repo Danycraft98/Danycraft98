@@ -3,8 +3,8 @@
 
 Math and Computer Science Student at <a href="https://www.utoronto.ca/">University of Toronto <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></a></br>
 
-Juniour Developer at <a href="https://www.mayahtt.com/">Maya HTT <img src="https://github.com/Danycraft98/Danycraft98/blob/main/bongo-cat.gif" width="30"></a></br>
-Juniour Developer at <a href="https://www.ecplaza.net/">ECPlaza <img src="https://github.com/Danycraft98/Danycraft98/blob/main/bongo-cat-2.gif" width="30"></a>
+Junior Developer at <a href="https://www.mayahtt.com/">Maya HTT <img src="https://github.com/Danycraft98/Danycraft98/blob/main/bongo-cat.gif" width="30"></a></br>
+Junior Developer at <a href="https://www.ecplaza.net/">ECPlaza <img src="https://github.com/Danycraft98/Danycraft98/blob/main/bongo-cat-2.gif" width="30"></a>
 </em></p>
 
 [![Linkedin: Daniel Lee](https://img.shields.io/badge/-Danycraft98-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danycraft98/)](https://www.linkedin.com/in/danycraft98/)
